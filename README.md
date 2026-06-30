@@ -1,4 +1,4 @@
-# Axon-Healthcare-Data-Analysis (Interactive Dashboard creation using MS Excel, MySQL, Tableau, MS Power BI
+# Axon-Healthcare-Data-Analysis (Interactive Dashboard creation using MS Excel, MySQL, Tableau, MS Power BI)
 ## Project Objective
 The Axon Healthcare wants to create a comprehensive analytics framework that monitors patient demographics and clinical trends, evaluates service efficiency, and tracks clinical quality and outcomes. It also assesses financial performance and sustainability while enabling data‑driven decision making to improve healthcare delivery and impact
 
@@ -20,7 +20,15 @@ The Axon Healthcare wants to create a comprehensive analytics framework that mon
 -Test Volume
 -Patients by State
 
-Excel Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151150.png">View Dashboard</a>
+## Excel Dashboard 
+- <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151150.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values or anomalies, and resolving them in Power Query
+- Made sure data is clean and consistent with respect to data type, data format and values used
+- Establish Data Modeling by connecting the tables together in Power Pivot
+- Create Pivot Tables according to the KPIs
+- Insert Visuals based on Pivot tables into a single Dashboard and apply slicer to filter out dynamically
 
 Tableau Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151412.png">View Dashboard</a>
 
