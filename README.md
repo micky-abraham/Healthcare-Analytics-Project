@@ -45,11 +45,12 @@
 - Tables are placed in the **logical layer** and connected with noodles
 - Relationships are defined by matching fields such as IDs
 - Queries are generated dynamically based on the relationship settings
+- Created graphs and visuals in seperate sheets and merged them in one dashboard
 - Filters are added to get dynamic data in a range 
 
 ## Dashboard 
 <img width="1403" height="802" alt="Screenshot 2026-06-30 151412" src="https://github.com/user-attachments/assets/e5d6197c-f6ef-41fa-a36d-674b12a696d3" />
-
+ 
 ## Power BI Dashboard
 - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Project%20-%20Power%20BI.pbix">View Dashboard</a>
 
@@ -58,7 +59,24 @@
 - Built a **data model** by connecting tables in Power Pivot  
 - Created KPIs and measures with **DAX formulas**  
 - Designed visuals such as charts, cards, and donut layouts  
-- Applied **slicers and filters** for dynamic, interactive dashboards  
-- Published the dashboard to the **Power BI Service** for sharing and collaboration 
+- Applied **slicers and filters** for dynamic, interactive dashboards
+
+## Dashboard
+<img width="1293" height="852" alt="Screenshot 2026-06-30 151533" src="https://github.com/user-attachments/assets/13d75ddd-5924-45d9-bf1f-3293cec0206d" />
+
+## MySQL Script
+- <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Project%20-%20SQL.sql">View Dashboard</a>
+
+## Process
+- Import data using **Table Data Import Wizard**
+- Perform **data count validation** to ensure accuracy  
+- Identified and removed **duplicate entries or null values**
+- Performance testing using **explain analyze**
+
+## Dashboard
+<img width="1102" height="617" alt="Screenshot 2026-06-30 213402" src="https://github.com/user-attachments/assets/1ef6cd40-2aef-408c-8596-2a8368c97e14" />
+
+
+
 
 
