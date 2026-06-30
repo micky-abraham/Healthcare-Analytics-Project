@@ -35,11 +35,21 @@
 - Create Pivot Tables according to the KPIs
 - Insert Visuals based on Pivot tables into a single Dashboard and apply slicer to filter out dynamically
 
-## Dashboard Screenshot
+## Dashboard 
 <img width="1777" height="865" alt="Screenshot 2026-06-30 151150" src="https://github.com/user-attachments/assets/f00c5a86-546d-4ea2-a96a-8999d999e6dd" />
 
 ## Tableau Dashboard 
-- <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151412.png">View Dashboard</a>
+- <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Project%20-%20Tableau.twbx">View Dashboard</a>
+
+## Process
+- Tables are placed in the logical layer and connected with noodles
+- Relationships are defined by matching fields such as IDs
+- Queries are generated dynamically based on the relationship settings
+- Filters are added 
+
+## Dashboard 
+<img width="1403" height="802" alt="Screenshot 2026-06-30 151412" src="https://github.com/user-attachments/assets/e5d6197c-f6ef-41fa-a36d-674b12a696d3" />
+
 
 Power BI Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151533.png">View Dashboard</a>
 
