@@ -79,10 +79,10 @@
 ## Project Insights
 - Patient visits increased steadily across the year, but the follow‑up rate remained low and needs closer monitoring
 - Treatment cost per visit showed slight growth, which should be kept in check to avoid unnecessary expense escalation
-- Abnormal lab results accounted for 34% of tests — there is a critical area that requires medical review and quality control
+- Abnormal lab results accounted for 34% of tests shows there is a critical area that requires medical review and quality control
 - Doctor workload is slightly higher for pediatrics and general medicine carried loads, suggesting resource balancing may be needed
-- Revenue reached 30.65M, driven mainly by treatment costs, while diagnostic costs stayed stable — cost allocation should be tracked for sustainability
-- Test volumes for CT scans and X‑rays were high, while blood and urine tests were lower — ensuring balanced test utilization is important
+- Revenue reached 30.65M, driven mainly by treatment costs, while diagnostic costs stayed stable and cost allocation should be tracked for sustainability
+- Test volumes for CT scans and X‑rays were high, while blood and urine tests were lower ensuring balanced test utilization is important
 
 ## Conclusion
 The dashboards show low patient follow‑up rates and high abnormal lab results, which hospitals can address through reminders and stricter lab protocols. Doctor workloads need balancing, especially in pediatrics and general medicine, by improving scheduling and resource allocation. Rising treatment costs should be monitored with audits and preventive care programs to keep expenses sustainable
