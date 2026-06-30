@@ -4,3 +4,20 @@ The Axon Healthcare wants to create a comprehensive analytics framework that mon
 
 ## Dataset used
 - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Data_Healthcare_Patient_D.xlsx">Dataset</a>
+
+## KPIs
+-Total Patients
+-Total Doctors
+-Total Visits
+-Average Age of Patients
+-Top 5 Diagnosed Conditions
+-Follow-up Rate
+-Treatment Cost per Visit
+-Total Lab Tests Conducted
+-Percentage of Abnormal Lab Results
+-Doctor Workload
+-Total Revenue
+-Test Volume
+-Patients by State
+
+Excel Dashboard - 
