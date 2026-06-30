@@ -30,6 +30,10 @@ The Axon Healthcare wants to create a comprehensive analytics framework that mon
 - Create Pivot Tables according to the KPIs
 - Insert Visuals based on Pivot tables into a single Dashboard and apply slicer to filter out dynamically
 
+## Dashboard
+<img width="1777" height="865" alt="Screenshot 2026-06-30 151150" src="https://github.com/user-attachments/assets/f00c5a86-546d-4ea2-a96a-8999d999e6dd" />
+
+
 Tableau Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151412.png">View Dashboard</a>
 
 Power BI Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151533.png">View Dashboard</a>
