@@ -27,8 +27,8 @@
 
 ## Project Structure
 
-/Excel Dashboard 
-- <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151150.png">View Dashboard</a>
+## Excel Dashboard 
+- <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Project%20-%20Excel.xlsx">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values or anomalies, and resolving them in Power Query
@@ -37,7 +37,7 @@
 - Create Pivot Tables according to the KPIs
 - Insert Visuals based on Pivot tables into a single Dashboard and apply slicer to filter out dynamically
 
-## Dashboard
+## Dashboard Screenshot
 <img width="1777" height="865" alt="Screenshot 2026-06-30 151150" src="https://github.com/user-attachments/assets/f00c5a86-546d-4ea2-a96a-8999d999e6dd" />
 
 
