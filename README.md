@@ -21,3 +21,5 @@ The Axon Healthcare wants to create a comprehensive analytics framework that mon
 -Patients by State
 
 Excel Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151150.png">View Dashboard</a>
+Tableau Dashboard - <a href="https://github.com/micky-abraham/Healthcare-Analytics-Project/blob/main/Screenshot%202026-06-30%20151412.png">View Dashboard</a>
+
