@@ -1,4 +1,4 @@
-# Axon-Healthcare-Analysis (Excel, MySQL, Tableau, Power BI)
+# Axon-Healthcare-Analytics (Excel, MySQL, Tableau, Power BI)
 
 ## Objectives
 - Monitor patient demographics and clinical trends  
